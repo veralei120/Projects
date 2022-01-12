@@ -1,12 +1,3 @@
-###########################################################################
-
-# Stats 102B Final Project                Instructor: Dr. Sanchez
-
-# Group: Westside 102B          Members: Yuchen Zhang, Haoyu Su, Leyi Lei
-
-###########################################################################
-
-
 ### Overview
 # Read in data
 NBA <- read.csv("Lei_3483.csv")
